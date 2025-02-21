@@ -4,16 +4,17 @@
 O PetShopApp é uma aplicação Java desenvolvida para gerenciar um pet shop. A aplicação permite o cadastro de clientes, animais de estimação, serviços oferecidos e agendamentos.
 
 ## Funcionalidades
-- Cadastro de clientes
-- Cadastro de animais de estimação
-- Cadastro de serviços
-- Agendamento de serviços
-- Consulta de agendamentos
+- ✅ Cadastro de pets (nome, dono, espécie, idade, etc.)
+- ✅ Visualização dos pets cadastrados em uma tabela dinâmica
+- ✅ Edição de informações com base no ID
+- ✅ Exclusão de registros do banco de dados
+- ✅ Integração com MySQL usando JDBC
 
 ## Tecnologias Utilizadas
-- Java
-- JavaFX (para interface gráfica)
-- MySQL (para banco de dados)
+- Java JDK 8+
+- MySQL Server
+- MySQL Connector/J (Driver JDBC)
+- NetBeans, Eclipse ou IntelliJ IDEA (opcional, mas recomendado)
 
 ## Como Executar
 1. Clone o repositório:
